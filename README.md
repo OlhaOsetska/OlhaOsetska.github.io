@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 #### Header 4
 Подія яка відбудиться в четвер, ласкаво просимо
-Трохи нижче є посилання на календар
+Трохи нижче є посилання на календар.
 
 **Bold** and _Italic_ and `Code` text
 
@@ -36,3 +36,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 #### CALENDAR
  
  Моя подія в[календарі](https://calendar.google.com/calendar/r/day?tab=mc)
+  Рада буду якщо ви заповните ось цю [форму](https://docs.google.com/forms/d/1noFCbhitnope5h2jWeDsEufmT-TMpGwyHofWV69cYXw/edit)
+  
