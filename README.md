@@ -15,11 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Подія яка відбудиться в четвер, ласкаво просимо
+[календар](https://calendar.google.com/calendar/r/day?tab=mc)
 
 **Bold** and _Italic_ and `Code` text
 
